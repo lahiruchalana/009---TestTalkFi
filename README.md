@@ -2,7 +2,7 @@
 
 # Use this in ""Windows PowerShell""" -->
 
-        $env:GOOGLE_APPLICATION_CREDENTIALS="C:\Users\Lahiru\Downloads328105-ee0c673f9292 (2).json"
+        $env:GOOGLE_APPLICATION_CREDENTIALS="c:\Users\Lahiru\Downloads\speech-to-text-328105-ee0c673f9292 (2).json"
         $env:GOOGLE_APPLICATION_CREDENTIALS="file path of json file of google API credentials"
 
 # It is working
